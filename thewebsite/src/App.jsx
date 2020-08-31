@@ -1,12 +1,12 @@
 import React from "react";
 import "./App.css";
 import Header from "./Components/Header";
-import Menu from "./Components/Menu";
+import ControlledTabs from "./Components/ControlledTabs";
 function App() {
   return (
     <div className="App">
       <Header />
-      <Menu />
+      <ControlledTabs />
     </div>
   );
 }
