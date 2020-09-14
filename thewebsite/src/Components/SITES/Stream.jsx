@@ -1,6 +1,6 @@
 import React from "react";
 import ReactPlayer from "react-player";
-import "./Stream.css";
+import "../../CSS/Sites.css";
 
 function App() {
   return (
